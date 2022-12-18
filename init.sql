@@ -1,3 +1,6 @@
+CREATE DATABASE etiassignone;
+USE etiassignone;
+
 CREATE TABLE `driver` (
   `driverId` int NOT NULL AUTO_INCREMENT,
   `firstName` varchar(100) NOT NULL,
